@@ -49,7 +49,8 @@
   year={2022},
   pages={2778-2785},
   keywords={Location awareness;Measurement;Databases;Pose estimation;Radon;Robustness;Mobile robots},
-  doi={10.1109/IROS47612.2022.9981308}}
+  doi={10.1109/IROS47612.2022.9981308}};
+
   @INPROCEEDINGS{8593953,
   author={Kim, Giseop and Kim, Ayoung},
   booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
