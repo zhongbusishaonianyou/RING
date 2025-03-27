@@ -2,6 +2,8 @@
 - Version plus:RING++: Roto-Translation-Invariant Gram for Global Localization on a Sparse Scan Map](https://ieeexplore.ieee.org/document/10224330) (IEEE T-RO 2023).
 - Description: we implemented matlab version of RING according to python version of RING.Due to the differences in calling library functions and implementation methods, the experimental results are slightly different from those in the paper.There may be some errors in our implementation.
 - Python version: https://github.com/lus6-Jenny/RING.
+ ![image](https://github.com/user-attachments/assets/cecda81d-770a-435c-a493-84d88d729888)
+
 - # Usage
  ```
 - change file path
