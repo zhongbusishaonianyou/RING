@@ -1,13 +1,12 @@
 clear; clc;
 addpath(genpath('src'));
-addpath(genpath('kitti_08'));
 %% param setting
 range=[70,70];
 num_rings=120;
 num_sectors=120;
 %% Read
-data_name1='./03870.bin';
-data_name2='./02526.bin';
+data_name1='./kitti_08/03870.bin';
+data_name2='./kitti_08/02526.bin';
 ptcloud1=Read_Bin(data_name1);
 ptcloud2=Read_Bin(data_name2);
 %% TI_RING
